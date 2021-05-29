@@ -1,8 +1,8 @@
-Author:zhaole
-Id:SA19204140
-github：https://github.com/colorfulchn
-QQ：384113120
-Email:lezhaochn@gmail.com
+### Author:zhaole
+### github：https://github.com/colorfulchn
+### QQ：384113120
+### Email:lezhaochn@gmail.com
+
 //欢迎一起讨论具体。github会在实验结束时间附近上传。^_^
 //近期较忙，可能不能及时回复～
 
